@@ -5,16 +5,16 @@ Welcome to use Language Interpretation and Recognition Interface!
 1. What the LIRI does?
 This amazing app has four distinct functions (try these four commands):
    
-* `my-tweets`
+* `node liri.js my-tweets`
 This will show your last 20 tweets and when they were created at in your terminal/bash window. It also returns a log text.
 
-* `spotify-this-song`
+* `node liri.js spotify-this-song song name`
 This will show relevant information about the song in your terminal/bash window. It also returns a log text.
      
-* `movie-this`
+* `node liri.js movie-this movie name`
 This will show relevant information about the movie in your terminal/bash window. It also returns a log text.
 
-* `do-what-it-says`
+* `node liri.js do-what-it-says`
 LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
 
